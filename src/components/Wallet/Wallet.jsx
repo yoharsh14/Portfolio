@@ -32,7 +32,7 @@ const Wallet = ({ saveState }) => {
       <div className="header">
         {isAndroid && (
           <button className="connectBTN">
-            <a href="https://metamask.app.link/dapp/sriche.netlify.app/">
+            <a href="https://metamask.app.link/dapp/connectharsh.netlify.app">
               Click For Mobile
             </a>
           </button>
